@@ -1,0 +1,12 @@
+[project]
+name = "OGUNDELE-23CG034110"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "emotiefflib==1.1.1",
+    "facenet-pytorch==2.5.3",
+    "flask==3.1.2",
+    "gunicorn>=23.0.0",
+]
